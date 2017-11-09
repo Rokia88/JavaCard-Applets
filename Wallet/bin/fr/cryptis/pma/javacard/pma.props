@@ -1,0 +1,10 @@
+#package specification
+#Fri Feb 20 18:08:27 CET 2015
+fr.cryptis.pma-minor=0
+fr.cryptis.pma-aid=9977997799
+masktools-version=1.1
+fr.cryptis.pma.PME-aid=997799779901
+fr.cryptis.pma-base=internal
+fr.cryptis.pma-clazzes=fr.cryptis.pma.PME fr.cryptis.pma.RecordBankingOperation
+jcop-packages=fr.cryptis.pma
+fr.cryptis.pma-major=1
